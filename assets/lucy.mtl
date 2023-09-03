@@ -1,0 +1,22 @@
+# Blender 3.4.1 MTL File: 'lucy.blend'
+# www.blender.org
+
+newmtl Lucy
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Metal 07 [4K]/Metal07_col_2048.png
+map_Bump textures/Metal 07 [4K]/Metal07_nrm_2048.png
+
+map_Kd textures/Planks 09 [8K]/Planks09_col_2048.png
+map_Bump textures/Planks 09 [8K]/Planks09_nrm_2048.png
+
+#map_Kd textures/Plastic 01 [4K]/Plastic01_col_2048.png
+#map_Bump textures/Plastic 01 [4K]/Plastic01_nrm_2048.png
+
+#map_Kd textures/Leather037_1K/Leather037_1K_Color.png
+#map_Bump textures/Leather037_1K/Leather037_1K_NormalGL.png
