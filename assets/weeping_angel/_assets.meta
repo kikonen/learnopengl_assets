@@ -1,0 +1,37 @@
+{
+  "dir": "resources/assets/weeping_angel",
+  "testures": [
+    {
+      "name": "albedo.png",
+      "type": "color",
+      "action": "encode",
+      "target_type": "RGBA",
+      "srgb": true
+    },
+    {
+      "name": "normal.png",
+      "type": "normal",
+      "action": "encode",
+      "target_type": "RGB",
+      "srgb": false,
+      "normal_map": true
+    }
+  ],
+  "textures": [
+    {
+      "name": "albedo.png",
+      "type": "color",
+      "action": "encode",
+      "target_type": "RGBA",
+      "srgb": true
+    },
+    {
+      "name": "normal.png",
+      "type": "normal",
+      "action": "encode",
+      "target_type": "RGB",
+      "srgb": false,
+      "normal_map": true
+    }
+  ]
+}

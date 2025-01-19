@@ -28,3 +28,4 @@ imgui.ini
 *_REMOTE_*
 
 assets/fbx/*
+build/**
